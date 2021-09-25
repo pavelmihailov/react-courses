@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
+import MainContent from './components/MainContent/MainContent';
 
 function App() {
 	return (
 		<div className='App'>
-			<h1>learn react 2</h1>
 			<Header></Header>
+			<MainContent></MainContent>
 		</div>
 	);
 }

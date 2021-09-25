@@ -1,7 +1,8 @@
 .header {
 	padding: 10px;
-	border: 1px rebeccapurple solid;
+	border: 1px red solid;
 	height: 50px;
+	margin: 10px;	
 }
 
 .user-name {
